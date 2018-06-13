@@ -1,0 +1,5 @@
+.actionBarMenu {
+  height: 100%;
+  border-radius: 0 !important; /* Semantic UI */
+  width: 100% !important; /* Semantic UI */
+}

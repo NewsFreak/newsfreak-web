@@ -1,0 +1,15 @@
+.activeItemLabels {
+  margin-top: 0.25em;
+}
+
+.activeItemContent {
+  padding-top: 0.5em !important;
+  padding-left: 0.5em !important;
+}
+.noActiveItemLabel {
+  width: 100% !important;
+  text-align: center !important;
+}
+.activeSidebarList {
+  height: 100%;
+}
