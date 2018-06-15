@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "homepage": "https://newsfreak.github.io/web",
+  "license": "BSD-3-Clause",
   "dependencies": {
     "axios": "^0.17.1",
     "build-url": "^1.0.10",
