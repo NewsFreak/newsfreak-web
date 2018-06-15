@@ -1,9 +1,0 @@
-.modalContainer {
-  position: fixed !important;
-  left: auto !important;
-  right: 0 !important;
-  height: 100vh !important;
-}
-.modalContent {
-  max-height: calc(90vh) !important;
-}
