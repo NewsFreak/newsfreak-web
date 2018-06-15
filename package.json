@@ -25,6 +25,8 @@
     "semantic-ui-react": "^0.77.2"
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}"
