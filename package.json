@@ -1,10 +1,12 @@
 {
   "name": "nf",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://newsfreak.github.io/web",
   "dependencies": {
     "axios": "^0.17.1",
     "build-url": "^1.0.10",
+    "gh-pages": "^1.2.0",
     "lodash": "^4.17.4",
     "moment": "^2.22.1",
     "react": "^16.2.0",
